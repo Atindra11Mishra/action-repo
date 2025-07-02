@@ -1,4 +1,4 @@
 from app.main import greet
 
 def test_greet():
-    assert greet("World") == "Hello, lets check the merge branch!"
+    assert greet("World") == "Hello, the definetly Amazon yes finaly Headwuater World!"
